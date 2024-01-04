@@ -44,7 +44,7 @@ npm run localtunnel
 
 2. Copy the generated URL: _(it may take a few seconds to show the URL)_
 
-<img width="807" alt="image" src="https://user-images.githubusercontent.com/104934463/210627117-395d328b-3f6a-4255-be18-9976ffbd6802.png">
+<img width="531" alt="image" src="https://github.com/meliguicarvalho/wallet-brand-bricks-sample/assets/95773606/15f07281-5ca8-4a92-a651-b52c188bf8d6">
 
 3. Keep the previous terminal instance running and open a new one. In the new terminal instance, run the following command:
 
