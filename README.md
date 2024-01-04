@@ -1,5 +1,8 @@
 # Payment processing with Checkout Bricks
 
+This project uses the Mercado Pago's Checkout Bricks to build a checkout experience.
+Wallet Brick is used to redirect the payer to Mercado Pago and Brand Brick is used to show the payer the benefits of using Mercado Pago.
+
 ## :computer: Technologies
 
 - Node.js
